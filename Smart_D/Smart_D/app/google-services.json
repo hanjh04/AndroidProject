@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "967200239184",
+    "project_id": "hello-13335"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967200239184:android:96b2caa2f84990d5",
+        "android_client_info": {
+          "package_name": "org.androidtown.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-N2F0oiS6r_QXNwFAiOeCCuXQURUzr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

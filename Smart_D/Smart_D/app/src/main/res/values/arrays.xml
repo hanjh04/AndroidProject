@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerArray">
+        <item>[택배사선택]</item>
+        <item>Logen</item>
+        <!--
+        <item>한진</item>
+        <item>대한통운</item>
+-->
+    </string-array>
+
+
+</resources>
